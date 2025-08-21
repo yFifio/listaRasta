@@ -1,0 +1,13 @@
+/* src/styles/base.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #1a1a1a;
+  background-image: url("../images/backgroundrasta.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #f0f0f0;
+  margin: 0;
+}
